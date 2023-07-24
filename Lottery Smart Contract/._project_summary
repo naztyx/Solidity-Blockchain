@@ -1,0 +1,9 @@
+***
+###
+### Ethereum transactions are accepted into the contract's address and are registered.
+### The manager of the lottery is the deploying account that controls the contract
+### Only the manager can see the contract balance and select a random winner
+### A user can send as much tx as they want to boost their winning chances
+### The entirre balance will then be automatically transferred to the selected winner's address and the lottery is reset for the next round.
+###
+***
