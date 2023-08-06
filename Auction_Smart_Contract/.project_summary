@@ -1,0 +1,9 @@
+***
+
+### the contract has a start and end period after which the tx
+### with the highest bid gets the product or service
+### the owner/manager can cancel in case of an emergency
+### at the end of a successful bid, txs with amounts less 
+### than the highest bid amount will then be refunded
+
+***
